@@ -1,0 +1,1 @@
+this is deno file read test.
